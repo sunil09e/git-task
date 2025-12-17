@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is script 1"
+echo "this is made from merge"
